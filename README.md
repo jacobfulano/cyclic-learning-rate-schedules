@@ -6,7 +6,7 @@ Benchmarking the tradeoff between neural network accuracy and training time is c
 
 ![Cyclic Learning Rate Schedules](graphics/fig0-teaser.png)
 
-Data was collected using the MosaicML Composer library for PyTorch, and all experiments were run on the Mosaic Cloud.
+Data was collected using the [MosaicML Composer library](https://github.com/mosaicml/composer) for PyTorch, and all experiments were run on the [Mosaic Cloud](https://www.mosaicml.com/).
 
 If you have questions or comments, please feel free to to reach out to jacob [arroba] mosaicml.com
 
